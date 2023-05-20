@@ -166,7 +166,7 @@
     "release-it": "^15.5.1",
     "rimraf": "^3.0.2",
     "satisfied": "^0.0.1",
-    "semantic-ui-css": "https://github.com/camrymps/rohit-ui.git",
+    "fomantic-ui-css": "^2.9.2",
     "simulant": "^0.2.2",
     "sinon": "^9.0.2",
     "sinon-chai": "^3.5.0",
