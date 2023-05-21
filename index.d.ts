@@ -194,6 +194,11 @@ export {
 
 // Elements
 export {
+  default as Marquee,
+  MarqueeProps,
+  StrictMarqueeProps,
+} from './dist/commonjs/elements/Marquee/Marquee'
+export {
   default as Button,
   ButtonProps,
   StrictButtonProps,

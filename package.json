@@ -74,6 +74,7 @@
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "prop-types": "^15.7.2",
+    "react-fast-marquee": "^1.5.2",
     "react-is": "^16.8.6 || ^17.0.0 || ^18.0.0",
     "react-popper": "^2.3.0",
     "shallowequal": "^1.1.0"
@@ -129,6 +130,7 @@
     "eslint-plugin-react": "^7.20.4",
     "eslint-plugin-react-hooks": "^4.0.8",
     "faker": "^4.1.0",
+    "fomantic-ui-css": "^2.9.2",
     "gh-pages": "^3.1.0",
     "gulp": "^3.9.1",
     "gulp-load-plugins": "^2.0.3",
@@ -166,7 +168,6 @@
     "release-it": "^15.5.1",
     "rimraf": "^3.0.2",
     "satisfied": "^0.0.1",
-    "fomantic-ui-css": "^2.9.2",
     "simulant": "^0.2.2",
     "sinon": "^9.0.2",
     "sinon-chai": "^3.5.0",
